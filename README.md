@@ -1,6 +1,12 @@
-# Ramiya-Nola-Azhara_09011182328089_SK3B_Tugas-3
-
 # SISTEM FILE (FILE SYSTEM)
+
+
+## Nama: Ramiya Nola Azhara
+## Kelas: SK3B
+## NIM: 09011182328089
+
+
+### Tugas
 
 1. Lihat peralatan I/O, character device, yang ada pada system komputer
 
@@ -9,39 +15,44 @@
 
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5
-   
+   ![no 2](https://github.com/user-attachments/assets/54526b84-d841-4d21-9029-59cce3da639f)
 
 
-
-4. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari
+3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari
 dan copy-kan file tersebut ke sub direktori februari dan maret
+![no 3](https://github.com/user-attachments/assets/dff0b026-fc08-4e5a-b543-a37328e09866)
 
-5. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others
+
+4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others
 dapat melakukan write
+![no 4](https://github.com/user-attachments/assets/ba3b7474-077e-42b3-bf4d-20ebadcf89f1)
 
 
-6. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat
+5. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat
 melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read
 dan execute.
+![no 5](https://github.com/user-attachments/assets/3a60d0f8-8273-4e4d-a678-fca70df71ef1)
 
 
-7. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat
+
+6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat
 melakukan write, read dan execute
+![no 6](https://github.com/user-attachments/assets/7f08a36a-dc3c-4dd5-ac1f-9bc69da791e2)
 
 
-8. Hapuslah direktori maret
+7. Hapuslah direktori maret
+
+![no 7](https://github.com/user-attachments/assets/c1f9d4b4-2f34-4513-b01d-5be5191a9754)
 
 
-
-9. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat
+8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat
 melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori
 februari.
 
 
-
-10. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan
+9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan
 nilai default-nya
 
 
-11. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
+10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah
 list perhatikan berapa link yang terjadi 
