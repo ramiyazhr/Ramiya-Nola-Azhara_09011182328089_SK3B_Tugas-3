@@ -9,6 +9,11 @@
 ### Tugas
 
 1. Lihat peralatan I/O, character device, yang ada pada system komputer
+![no 1](https://github.com/user-attachments/assets/89d78b0d-d795-4bb8-ae5f-7ec7258f4685)
+
+
+
+   ![no 1 tty0](https://github.com/user-attachments/assets/ab7d4c8c-7c9f-47df-864c-b86e028d0260)
 
 
 
