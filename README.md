@@ -1,4 +1,4 @@
-# SISTEM FILE (FILE SYSTEM)
+# PRAKTIKUM 3 SISTEM FILE (FILE SYSTEM)
 
 
 ## Nama: Ramiya Nola Azhara
@@ -51,5 +51,9 @@
 
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya
 
+   ![no 9](https://github.com/user-attachments/assets/686ea6fa-6ec5-4e5d-97e6-2e5554c8ad87)
+
 
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi 
+
+    ![no 10](https://github.com/user-attachments/assets/a8fbbee6-e17f-4b05-b776-41336ea25556)
